@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\User\OneDrive\Desktop\ReubenOpenGL\openGL_Classwork\main.cpp(27,32): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\User\OneDrive\Desktop\ReubenOpenGL\openGL_Classwork\main.cpp(27,32): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\OneDrive\Desktop\ReubenOpenGL\openGL_Classwork\main.cpp(28,31): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\User\OneDrive\Desktop\ReubenOpenGL\openGL_Classwork\main.cpp(28,31): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\OneDrive\Desktop\ReubenOpenGL\openGL_Classwork\main.cpp(29,30): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\User\OneDrive\Desktop\ReubenOpenGL\openGL_Classwork\main.cpp(29,30): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  openGL_Classwork.vcxproj -> C:\Users\User\OneDrive\Desktop\ReubenOpenGL\openGL_Classwork\x64\Debug\openGL_Classwork.exe
